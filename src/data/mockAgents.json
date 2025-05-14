@@ -1,0 +1,8 @@
+[
+  { "id": "agent_zen", "name": "Agent Zen", "state": "ZEN_LOOP_CORE" },
+  { "id": "agent_obs", "name": "Observer", "state": "OBSERVER_REFLEX" },
+  { "id": "agent_off", "name": "Ghost", "state": "AGENT_OFFLINE" },
+  { "id": "agent_wait", "name": "Initiate", "state": "ACTOR_AWAITING_CLEAR" },
+  { "id": "agent_live", "name": "Commander", "state": "ACTOR_ACTIVE" },
+  { "id": "agent_denied", "name": "Gate Failed", "state": "GATEKEEPER_BLOCKED" }
+]
