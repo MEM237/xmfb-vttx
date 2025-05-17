@@ -1,3 +1,26 @@
+# 📦 ARCHIVED: XMFB-VTTX
+
+This repository has been **archived** as of May 17, 2025.
+
+All ongoing development for the XMFB project has migrated to the new canonical repository:  
+🔗 [https://github.com/MEM237/xmfb](https://github.com/MEM237/xmfb)
+
+---
+
+### ℹ️ About this Archive
+
+`xmfb-vttx` served as the initial prototype space for:
+- VTTX UI experiments
+- Reflex Engine scaffolding
+- Early ADK agent testing
+
+It has been preserved in full to retain commit history and design evolution.  
+Please refer to the new repo for active features, demos, and code.
+
+> Thank you to everyone who contributed during this foundational phase.
+
+
+
 # XMFB Protocol: Surface Pack
 
 **One protocol. Many faces. Presence is the password.**
