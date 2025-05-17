@@ -1,0 +1,8 @@
+name: reflex_engine
+instruction: Validate symbolic reflex input and gate presence
+tools:
+  - reflex_engine.tools.smash_tag_tool.GenerateHalfSmashTag
+  - reflex_engine.tools.logging_tool.LogReflexState
+  - reflex_engine.tools.flush_tool.FlushTool
+
+

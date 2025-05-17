@@ -1,0 +1,6 @@
+chain_id: reflex_validation_test
+agents:
+  - name: reflex_engine
+    class_path: reflex_engine.agent.ReflexEngineAgent
+    input:
+      reflex: "::μ~zen | %smash-tag"
