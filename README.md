@@ -20,7 +20,7 @@ This repository is the reference implementation of the **XMFB Surface Pack**, a 
 
 ---
 
-## 📂 Repo Structure
+## 📂 Repo Structurep
 
 \`\`\`
 xmfb-vttx/
